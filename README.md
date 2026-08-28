@@ -8,7 +8,7 @@ Python Backend Engineer focused on APIs, PostgreSQL, and business integrations. 
 
 ## Core stack
 
-`Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `Pytest` · `Docker` · `GitHub Actions`
+`Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `Pytest` · `Docker` 
 
 ## Selected projects
 
