@@ -21,4 +21,4 @@ Asset management system for schools with organization isolation, role-based acce
 ### [Infomir Learning Platform](https://github.com/lisovcoff/infomir-learning-platform)
 Multi-role learning platform with timed attempts, student progress tracking, teacher groups, subscriptions, and a separate admin interface.
 
-## [CONTACT ME](mailto:qwertyuiopa112358@gmail.com)
+## [CONTACT ME](mailto:sergey.inozemtsev.dev@gmail.com)
